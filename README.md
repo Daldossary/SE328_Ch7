@@ -6,3 +6,6 @@ Writing something into readme file to test what this does and how the platform w
 
 Editing this file for the second time.
 2nd change committed
+
+Editing from my desktop github version
+3rd change committed
