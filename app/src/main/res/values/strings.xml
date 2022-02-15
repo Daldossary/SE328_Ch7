@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latin Music</string>
+    <string name="recordName">Play Record Music</string>
+    <string name="micName">Play Mic Music</string>
+</resources>
